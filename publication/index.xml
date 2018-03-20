@@ -8,9 +8,7 @@
     <language>en-us</language>
     <copyright>&amp;copy; 2018 Ernest Y. Lee</copyright>
     <lastBuildDate>Sun, 01 Jan 2017 00:00:00 +0000</lastBuildDate>
-    
-	<atom:link href="https://ernest-lee.github.io/publication/index.xml" rel="self" type="application/rss+xml" />
-    
+    <atom:link href="/publication/" rel="self" type="application/rss+xml" />
     
     <item>
       <title>Multigenerational Memory and Adaptive Adhesion in Early Bacterial Biofilm Communities.</title>
@@ -144,15 +142,6 @@
       <pubDate>Tue, 08 Mar 2016 00:00:00 +0000</pubDate>
       
       <guid>https://ernest-lee.github.io/publication/lee_2016fb/</guid>
-      <description></description>
-    </item>
-    
-    <item>
-      <title>Oxidation of Membrane Curvature-Regulating Phosphatidylethanolamine Lipid Results in Formation of Bilayer and Cubic Structures.</title>
-      <link>https://ernest-lee.github.io/publication/sankhagowit_2016et/</link>
-      <pubDate>Thu, 03 Mar 2016 00:00:00 +0000</pubDate>
-      
-      <guid>https://ernest-lee.github.io/publication/sankhagowit_2016et/</guid>
       <description></description>
     </item>
     

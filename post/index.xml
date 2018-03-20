@@ -8,9 +8,7 @@
     <language>en-us</language>
     <copyright>&amp;copy; 2018 Ernest Y. Lee</copyright>
     <lastBuildDate>Sun, 01 Jan 2017 00:00:00 -0800</lastBuildDate>
-    
-	<atom:link href="https://ernest-lee.github.io/post/index.xml" rel="self" type="application/rss+xml" />
-    
+    <atom:link href="/post/" rel="self" type="application/rss+xml" />
     
     <item>
       <title>Primum</title>
@@ -18,7 +16,8 @@
       <pubDate>Tue, 23 Jan 2018 00:00:00 -0800</pubDate>
       
       <guid>https://ernest-lee.github.io/post/welcome/</guid>
-      <description>Welcome to my academic webpage! You will find continual updates to my publications and research interests, along with my CV and upcoming talks.</description>
+      <description>&lt;p&gt;Welcome to my academic webpage! You will find continual updates to my publications and research interests, along with my CV and upcoming talks.&lt;/p&gt;
+</description>
     </item>
     
   </channel>

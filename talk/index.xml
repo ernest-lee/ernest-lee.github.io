@@ -8,9 +8,7 @@
     <language>en-us</language>
     <copyright>&amp;copy; 2018 Ernest Y. Lee</copyright>
     <lastBuildDate>Sun, 01 Jan 2017 00:00:00 +0000</lastBuildDate>
-    
-	<atom:link href="https://ernest-lee.github.io/talk/index.xml" rel="self" type="application/rss+xml" />
-    
+    <atom:link href="/talk/" rel="self" type="application/rss+xml" />
     
     <item>
       <title>Crystallinity of dsRNA-Antimicrobial Peptide Complexes Modulates TLR3-Mediated Inflammation</title>
@@ -18,7 +16,8 @@
       <pubDate>Sun, 01 Jan 2017 00:00:00 -0800</pubDate>
       
       <guid>https://ernest-lee.github.io/talk/apsmarch2018_2/</guid>
-      <description>Embed your slides or video here using shortcodes. Further details can easily be added using Markdown and $\rm \LaTeX$ math code.</description>
+      <description>&lt;p&gt;Embed your slides or video here using &lt;a href=&#34;https://sourcethemes.com/academic/post/writing-markdown-latex/&#34; target=&#34;_blank&#34;&gt;shortcodes&lt;/a&gt;. Further details can easily be added using &lt;em&gt;Markdown&lt;/em&gt; and $\rm \LaTeX$ math code.&lt;/p&gt;
+</description>
     </item>
     
     <item>
@@ -27,7 +26,8 @@
       <pubDate>Sun, 01 Jan 2017 00:00:00 -0800</pubDate>
       
       <guid>https://ernest-lee.github.io/talk/apsmarch2018_1/</guid>
-      <description>Embed your slides or video here using shortcodes. Further details can easily be added using Markdown and $\rm \LaTeX$ math code.</description>
+      <description>&lt;p&gt;Embed your slides or video here using &lt;a href=&#34;https://sourcethemes.com/academic/post/writing-markdown-latex/&#34; target=&#34;_blank&#34;&gt;shortcodes&lt;/a&gt;. Further details can easily be added using &lt;em&gt;Markdown&lt;/em&gt; and $\rm \LaTeX$ math code.&lt;/p&gt;
+</description>
     </item>
     
     <item>
@@ -36,7 +36,8 @@
       <pubDate>Sun, 01 Jan 2017 00:00:00 -0800</pubDate>
       
       <guid>https://ernest-lee.github.io/talk/aspen2018/</guid>
-      <description>Embed your slides or video here using shortcodes. Further details can easily be added using Markdown and $\rm \LaTeX$ math code.</description>
+      <description>&lt;p&gt;Embed your slides or video here using &lt;a href=&#34;https://sourcethemes.com/academic/post/writing-markdown-latex/&#34; target=&#34;_blank&#34;&gt;shortcodes&lt;/a&gt;. Further details can easily be added using &lt;em&gt;Markdown&lt;/em&gt; and $\rm \LaTeX$ math code.&lt;/p&gt;
+</description>
     </item>
     
   </channel>
