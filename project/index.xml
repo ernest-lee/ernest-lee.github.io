@@ -1,0 +1,52 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Projects on Ernest Y. Lee</title>
+    <link>https://ernest-lee.github.io/project/</link>
+    <description>Recent content in Projects on Ernest Y. Lee</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en-us</language>
+    <copyright>&amp;copy; 2018 Ernest Y. Lee</copyright>
+    <lastBuildDate>Wed, 27 Apr 2016 00:00:00 +0000</lastBuildDate>
+    
+	<atom:link href="https://ernest-lee.github.io/project/index.xml" rel="self" type="application/rss+xml" />
+    
+    
+    <item>
+      <title>Design Rules for Immunomodulation by Host-Defense Peptides</title>
+      <link>https://ernest-lee.github.io/project/immunomodulation/</link>
+      <pubDate>Wed, 27 Apr 2016 00:00:00 +0000</pubDate>
+      
+      <guid>https://ernest-lee.github.io/project/immunomodulation/</guid>
+      <description>We combine state of the art X-ray measurements with computer simulations and immune cell measurements to delineate structural design principles for molecules that modulate of Toll-like receptor signaling. Of particular interest are electrostatically self-assembled antimicrobial peptide-nucleic acid nanocrystals that amplify inflammation in autoimmune disease.</description>
+    </item>
+    
+    <item>
+      <title>Membrane-Active Peptides and Proteins</title>
+      <link>https://ernest-lee.github.io/project/ml-membrane-activity/</link>
+      <pubDate>Wed, 27 Apr 2016 00:00:00 +0000</pubDate>
+      
+      <guid>https://ernest-lee.github.io/project/ml-membrane-activity/</guid>
+      <description>We combine machine learning with calibrating X-ray measurements of induced negative Gaussian curvature by helical antimicrobial peptides to develop a screening tool that can broadly discover hidden membrane-remodeling activity in diverse families of peptides and proteins with various primary functions.</description>
+    </item>
+    
+    <item>
+      <title>Multifunctional Peptides and Proteins</title>
+      <link>https://ernest-lee.github.io/project/multifunctional/</link>
+      <pubDate>Wed, 27 Apr 2016 00:00:00 +0000</pubDate>
+      
+      <guid>https://ernest-lee.github.io/project/multifunctional/</guid>
+      <description>We use bioinformatics and machine learning to decompose how amino acid sequences can encode multiple functions in the same protein. These span antimicrobial peptides, cytokines, apoptosis regulators, bacterial secretion systems, and other membrane-remodeling proteins.</description>
+    </item>
+    
+    <item>
+      <title>Autoimmune Diseases and Chronic Inflammation</title>
+      <link>https://ernest-lee.github.io/project/autoimmunity/</link>
+      <pubDate>Fri, 01 Jan 2016 00:00:00 +0000</pubDate>
+      
+      <guid>https://ernest-lee.github.io/project/autoimmunity/</guid>
+      <description>Autoimmune diseases are characterized by incurable chronic inflammation and poor quality of life. New mechanistic targets and treatment modalities are needed. We aim to understand the molecular basis of autoimmune disease and develop candidate interventions.</description>
+    </item>
+    
+  </channel>
+</rss>

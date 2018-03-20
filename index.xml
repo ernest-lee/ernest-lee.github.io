@@ -1,0 +1,295 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Ernest Y. Lee</title>
+    <link>https://ernest-lee.github.io/</link>
+    <description>Recent content on Ernest Y. Lee</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en-us</language>
+    <copyright>&amp;copy; 2018 Ernest Y. Lee</copyright>
+    <lastBuildDate>Sun, 15 Oct 2017 00:00:00 -0700</lastBuildDate>
+    
+	<atom:link href="https://ernest-lee.github.io/index.xml" rel="self" type="application/rss+xml" />
+    
+    
+    <item>
+      <title>Physics Meets Biomedicine</title>
+      <link>https://ernest-lee.github.io/home/hero/</link>
+      <pubDate>Sun, 15 Oct 2017 00:00:00 -0700</pubDate>
+      
+      <guid>https://ernest-lee.github.io/home/hero/</guid>
+      <description>I combine biophysics and computational biology to explore problems at the interface of infectious and autoimmune diseases. I am working on elucidating molecular rules underlying the membrane-remodeling and immunomodulatory activities of multifunctional peptides and proteins.</description>
+    </item>
+    
+    <item>
+      <title></title>
+      <link>https://ernest-lee.github.io/home/about/</link>
+      <pubDate>Wed, 20 Apr 2016 00:00:00 +0000</pubDate>
+      
+      <guid>https://ernest-lee.github.io/home/about/</guid>
+      <description>Biography Ernest Lee is a 6th year M.D./Ph.D. student in the UCLA-Caltech Medical Scientist Training Program and a 4th year graduate student in the Department of Bioengineering at UCLA under Dr. Gerard Wong. He received a B.S. in Physics with Honors from Caltech in 2012. He is interested in conducting research at the intersection of infectious, autoimmune, and neurodegenerative diseases, with a particular focus on machine-learning aided design of membrane-active antimicrobial peptides, anti-inflammatory strategies for autoimmune diseases, and the role of the nervous system in innate immune defense.</description>
+    </item>
+    
+    <item>
+      <title>Publications</title>
+      <link>https://ernest-lee.github.io/home/publications/</link>
+      <pubDate>Wed, 20 Apr 2016 00:00:00 -0700</pubDate>
+      
+      <guid>https://ernest-lee.github.io/home/publications/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Projects</title>
+      <link>https://ernest-lee.github.io/home/projects/</link>
+      <pubDate>Wed, 20 Apr 2016 00:00:00 +0000</pubDate>
+      
+      <guid>https://ernest-lee.github.io/home/projects/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Recent &amp; Upcoming Talks</title>
+      <link>https://ernest-lee.github.io/home/talks/</link>
+      <pubDate>Wed, 20 Apr 2016 00:00:00 +0000</pubDate>
+      
+      <guid>https://ernest-lee.github.io/home/talks/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Recent Posts</title>
+      <link>https://ernest-lee.github.io/home/posts/</link>
+      <pubDate>Wed, 20 Apr 2016 00:00:00 +0000</pubDate>
+      
+      <guid>https://ernest-lee.github.io/home/posts/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Contact</title>
+      <link>https://ernest-lee.github.io/home/contact/</link>
+      <pubDate>Wed, 20 Apr 2016 00:00:00 +0000</pubDate>
+      
+      <guid>https://ernest-lee.github.io/home/contact/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Multigenerational Memory and Adaptive Adhesion in Early Bacterial Biofilm Communities.</title>
+      <link>https://ernest-lee.github.io/publication/lee_2018pnas/</link>
+      <pubDate>Sat, 17 Mar 2018 00:00:00 +0000</pubDate>
+      
+      <guid>https://ernest-lee.github.io/publication/lee_2018pnas/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Cathelicidin promotes inflammation by enabling binding of self-RNA to cell surface scavenger receptors.</title>
+      <link>https://ernest-lee.github.io/publication/takahashi_2018je/</link>
+      <pubDate>Mon, 05 Mar 2018 00:00:00 +0000</pubDate>
+      
+      <guid>https://ernest-lee.github.io/publication/takahashi_2018je/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Modulation of toll-like receptor signaling by antimicrobial peptides.</title>
+      <link>https://ernest-lee.github.io/publication/lee_2018gc/</link>
+      <pubDate>Fri, 09 Feb 2018 00:00:00 +0000</pubDate>
+      
+      <guid>https://ernest-lee.github.io/publication/lee_2018gc/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Primum</title>
+      <link>https://ernest-lee.github.io/post/welcome/</link>
+      <pubDate>Tue, 23 Jan 2018 00:00:00 -0800</pubDate>
+      
+      <guid>https://ernest-lee.github.io/post/welcome/</guid>
+      <description>Welcome to my academic webpage! You will find continual updates to my publications and research interests, along with my CV and upcoming talks.</description>
+    </item>
+    
+    <item>
+      <title>Molecular Motor Dnm1 Synergistically Induces Membrane Curvature To Facilitate Mitochondrial Fission.</title>
+      <link>https://ernest-lee.github.io/publication/lee_2017gv/</link>
+      <pubDate>Thu, 09 Nov 2017 00:00:00 +0000</pubDate>
+      
+      <guid>https://ernest-lee.github.io/publication/lee_2017gv/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>What can machine learning do for antimicrobial peptides, and what can antimicrobial peptides do for machine learning?</title>
+      <link>https://ernest-lee.github.io/publication/lee_2017jo/</link>
+      <pubDate>Sat, 21 Oct 2017 00:00:00 +0000</pubDate>
+      
+      <guid>https://ernest-lee.github.io/publication/lee_2017jo/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Crystallinity of Double-Stranded RNA-Antimicrobial Peptide Complexes Modulates Toll-Like Receptor 3-Mediated Inflammation.</title>
+      <link>https://ernest-lee.github.io/publication/lee_2017fy/</link>
+      <pubDate>Thu, 12 Oct 2017 00:00:00 +0000</pubDate>
+      
+      <guid>https://ernest-lee.github.io/publication/lee_2017fy/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>High-Speed &#34;4D&#34; Computational Microscopy of Bacterial Surface Motility.</title>
+      <link>https://ernest-lee.github.io/publication/deanda_2017br/</link>
+      <pubDate>Sat, 26 Aug 2017 00:00:00 +0000</pubDate>
+      
+      <guid>https://ernest-lee.github.io/publication/deanda_2017br/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Machine learning-enabled discovery and design of membrane-active peptides.</title>
+      <link>https://ernest-lee.github.io/publication/lee_2017id/</link>
+      <pubDate>Thu, 13 Jul 2017 00:00:00 +0000</pubDate>
+      
+      <guid>https://ernest-lee.github.io/publication/lee_2017id/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>A Role for Neuronal Alpha-Synuclein in Gastrointestinal Immunity.</title>
+      <link>https://ernest-lee.github.io/publication/stolzenberg_2017co/</link>
+      <pubDate>Tue, 27 Jun 2017 00:00:00 +0000</pubDate>
+      
+      <guid>https://ernest-lee.github.io/publication/stolzenberg_2017co/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>070 Liquid crystalline ordering of antimicrobial peptide-RNA complexes controls TLR3 activation</title>
+      <link>https://ernest-lee.github.io/publication/lee_2017ii/</link>
+      <pubDate>Mon, 12 Jun 2017 00:00:00 +0000</pubDate>
+      
+      <guid>https://ernest-lee.github.io/publication/lee_2017ii/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Bacterial amyloid curli acts as a carrier for DNA to elicit an autoimmune response via TLR2 and TLR9.</title>
+      <link>https://ernest-lee.github.io/publication/tursi_2017fc/</link>
+      <pubDate>Sun, 16 Apr 2017 00:00:00 +0000</pubDate>
+      
+      <guid>https://ernest-lee.github.io/publication/tursi_2017fc/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Direct Antimicrobial Activity of IFN-β.</title>
+      <link>https://ernest-lee.github.io/publication/kaplan_2017gc/</link>
+      <pubDate>Sun, 16 Apr 2017 00:00:00 +0000</pubDate>
+      
+      <guid>https://ernest-lee.github.io/publication/kaplan_2017gc/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Crystallinity of dsRNA-Antimicrobial Peptide Complexes Modulates TLR3-Mediated Inflammation</title>
+      <link>https://ernest-lee.github.io/talk/apsmarch2018_2/</link>
+      <pubDate>Sun, 01 Jan 2017 00:00:00 -0800</pubDate>
+      
+      <guid>https://ernest-lee.github.io/talk/apsmarch2018_2/</guid>
+      <description>Embed your slides or video here using shortcodes. Further details can easily be added using Markdown and $\rm \LaTeX$ math code.</description>
+    </item>
+    
+    <item>
+      <title>Design Rules for Immunomodulation by Host-Defense Peptides</title>
+      <link>https://ernest-lee.github.io/talk/apsmarch2018_1/</link>
+      <pubDate>Sun, 01 Jan 2017 00:00:00 -0800</pubDate>
+      
+      <guid>https://ernest-lee.github.io/talk/apsmarch2018_1/</guid>
+      <description>Embed your slides or video here using shortcodes. Further details can easily be added using Markdown and $\rm \LaTeX$ math code.</description>
+    </item>
+    
+    <item>
+      <title>Machine learning and membrane remodeling activity</title>
+      <link>https://ernest-lee.github.io/talk/aspen2018/</link>
+      <pubDate>Sun, 01 Jan 2017 00:00:00 -0800</pubDate>
+      
+      <guid>https://ernest-lee.github.io/talk/aspen2018/</guid>
+      <description>Embed your slides or video here using shortcodes. Further details can easily be added using Markdown and $\rm \LaTeX$ math code.</description>
+    </item>
+    
+    <item>
+      <title>Mapping membrane activity in undiscovered peptide sequence space using machine learning.</title>
+      <link>https://ernest-lee.github.io/publication/lee_2016km/</link>
+      <pubDate>Tue, 15 Nov 2016 00:00:00 +0000</pubDate>
+      
+      <guid>https://ernest-lee.github.io/publication/lee_2016km/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>S100A12 Is Part of the Antimicrobial Network against Mycobacterium leprae in Human Macrophages.</title>
+      <link>https://ernest-lee.github.io/publication/realegeno_2016ex/</link>
+      <pubDate>Tue, 15 Nov 2016 00:00:00 +0000</pubDate>
+      
+      <guid>https://ernest-lee.github.io/publication/realegeno_2016ex/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Design Rules for Immunomodulation by Host-Defense Peptides</title>
+      <link>https://ernest-lee.github.io/project/immunomodulation/</link>
+      <pubDate>Wed, 27 Apr 2016 00:00:00 +0000</pubDate>
+      
+      <guid>https://ernest-lee.github.io/project/immunomodulation/</guid>
+      <description>We combine state of the art X-ray measurements with computer simulations and immune cell measurements to delineate structural design principles for molecules that modulate of Toll-like receptor signaling. Of particular interest are electrostatically self-assembled antimicrobial peptide-nucleic acid nanocrystals that amplify inflammation in autoimmune disease.</description>
+    </item>
+    
+    <item>
+      <title>Membrane-Active Peptides and Proteins</title>
+      <link>https://ernest-lee.github.io/project/ml-membrane-activity/</link>
+      <pubDate>Wed, 27 Apr 2016 00:00:00 +0000</pubDate>
+      
+      <guid>https://ernest-lee.github.io/project/ml-membrane-activity/</guid>
+      <description>We combine machine learning with calibrating X-ray measurements of induced negative Gaussian curvature by helical antimicrobial peptides to develop a screening tool that can broadly discover hidden membrane-remodeling activity in diverse families of peptides and proteins with various primary functions.</description>
+    </item>
+    
+    <item>
+      <title>Multifunctional Peptides and Proteins</title>
+      <link>https://ernest-lee.github.io/project/multifunctional/</link>
+      <pubDate>Wed, 27 Apr 2016 00:00:00 +0000</pubDate>
+      
+      <guid>https://ernest-lee.github.io/project/multifunctional/</guid>
+      <description>We use bioinformatics and machine learning to decompose how amino acid sequences can encode multiple functions in the same protein. These span antimicrobial peptides, cytokines, apoptosis regulators, bacterial secretion systems, and other membrane-remodeling proteins.</description>
+    </item>
+    
+    <item>
+      <title>A review of immune amplification via ligand clustering by self-assembled liquid-crystalline DNA complexes.</title>
+      <link>https://ernest-lee.github.io/publication/lee_2016fb/</link>
+      <pubDate>Tue, 08 Mar 2016 00:00:00 +0000</pubDate>
+      
+      <guid>https://ernest-lee.github.io/publication/lee_2016fb/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Oxidation of Membrane Curvature-Regulating Phosphatidylethanolamine Lipid Results in Formation of Bilayer and Cubic Structures.</title>
+      <link>https://ernest-lee.github.io/publication/sankhagowit_2016et/</link>
+      <pubDate>Thu, 03 Mar 2016 00:00:00 +0000</pubDate>
+      
+      <guid>https://ernest-lee.github.io/publication/sankhagowit_2016et/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Autoimmune Diseases and Chronic Inflammation</title>
+      <link>https://ernest-lee.github.io/project/autoimmunity/</link>
+      <pubDate>Fri, 01 Jan 2016 00:00:00 +0000</pubDate>
+      
+      <guid>https://ernest-lee.github.io/project/autoimmunity/</guid>
+      <description>Autoimmune diseases are characterized by incurable chronic inflammation and poor quality of life. New mechanistic targets and treatment modalities are needed. We aim to understand the molecular basis of autoimmune disease and develop candidate interventions.</description>
+    </item>
+    
+  </channel>
+</rss>

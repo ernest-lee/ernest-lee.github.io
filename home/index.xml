@@ -1,0 +1,79 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Homes on Ernest Y. Lee</title>
+    <link>https://ernest-lee.github.io/home/</link>
+    <description>Recent content in Homes on Ernest Y. Lee</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en-us</language>
+    <copyright>&amp;copy; 2018 Ernest Y. Lee</copyright>
+    <lastBuildDate>Sun, 15 Oct 2017 00:00:00 -0700</lastBuildDate>
+    
+	<atom:link href="https://ernest-lee.github.io/home/index.xml" rel="self" type="application/rss+xml" />
+    
+    
+    <item>
+      <title>Physics Meets Biomedicine</title>
+      <link>https://ernest-lee.github.io/home/hero/</link>
+      <pubDate>Sun, 15 Oct 2017 00:00:00 -0700</pubDate>
+      
+      <guid>https://ernest-lee.github.io/home/hero/</guid>
+      <description>I combine biophysics and computational biology to explore problems at the interface of infectious and autoimmune diseases. I am working on elucidating molecular rules underlying the membrane-remodeling and immunomodulatory activities of multifunctional peptides and proteins.</description>
+    </item>
+    
+    <item>
+      <title></title>
+      <link>https://ernest-lee.github.io/home/about/</link>
+      <pubDate>Wed, 20 Apr 2016 00:00:00 +0000</pubDate>
+      
+      <guid>https://ernest-lee.github.io/home/about/</guid>
+      <description>Biography Ernest Lee is a 6th year M.D./Ph.D. student in the UCLA-Caltech Medical Scientist Training Program and a 4th year graduate student in the Department of Bioengineering at UCLA under Dr. Gerard Wong. He received a B.S. in Physics with Honors from Caltech in 2012. He is interested in conducting research at the intersection of infectious, autoimmune, and neurodegenerative diseases, with a particular focus on machine-learning aided design of membrane-active antimicrobial peptides, anti-inflammatory strategies for autoimmune diseases, and the role of the nervous system in innate immune defense.</description>
+    </item>
+    
+    <item>
+      <title>Publications</title>
+      <link>https://ernest-lee.github.io/home/publications/</link>
+      <pubDate>Wed, 20 Apr 2016 00:00:00 -0700</pubDate>
+      
+      <guid>https://ernest-lee.github.io/home/publications/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Projects</title>
+      <link>https://ernest-lee.github.io/home/projects/</link>
+      <pubDate>Wed, 20 Apr 2016 00:00:00 +0000</pubDate>
+      
+      <guid>https://ernest-lee.github.io/home/projects/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Recent &amp; Upcoming Talks</title>
+      <link>https://ernest-lee.github.io/home/talks/</link>
+      <pubDate>Wed, 20 Apr 2016 00:00:00 +0000</pubDate>
+      
+      <guid>https://ernest-lee.github.io/home/talks/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Recent Posts</title>
+      <link>https://ernest-lee.github.io/home/posts/</link>
+      <pubDate>Wed, 20 Apr 2016 00:00:00 +0000</pubDate>
+      
+      <guid>https://ernest-lee.github.io/home/posts/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Contact</title>
+      <link>https://ernest-lee.github.io/home/contact/</link>
+      <pubDate>Wed, 20 Apr 2016 00:00:00 +0000</pubDate>
+      
+      <guid>https://ernest-lee.github.io/home/contact/</guid>
+      <description></description>
+    </item>
+    
+  </channel>
+</rss>
