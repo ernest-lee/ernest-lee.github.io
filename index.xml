@@ -11,11 +11,29 @@
     <atom:link href="/" rel="self" type="application/rss+xml" />
     
     <item>
+      <title>Machine learning-enabled discovery and design of membrane-active peptides.</title>
+      <link>https://ernest-lee.github.io/publication/lee_2017id/</link>
+      <pubDate>Wed, 16 May 2018 00:00:00 +0000</pubDate>
+      
+      <guid>https://ernest-lee.github.io/publication/lee_2017id/</guid>
+      <description></description>
+    </item>
+    
+    <item>
       <title>886 Discovery of a receptor-dependent step in cathelicidin activation of inflammation identifies a novel therapeutic target for psoriasis and rosacea</title>
       <link>https://ernest-lee.github.io/publication/takahashi_2018ej/</link>
       <pubDate>Fri, 20 Apr 2018 00:00:00 +0000</pubDate>
       
       <guid>https://ernest-lee.github.io/publication/takahashi_2018ej/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Discovery and Design of Multifunctional Membrane-Active and Immunomodulatory Peptides and Proteins.</title>
+      <link>https://ernest-lee.github.io/publication/lee_2018th/</link>
+      <pubDate>Wed, 11 Apr 2018 00:00:00 +0000</pubDate>
+      
+      <guid>https://ernest-lee.github.io/publication/lee_2018th/</guid>
       <description></description>
     </item>
     
@@ -93,15 +111,6 @@
     </item>
     
     <item>
-      <title>Machine learning-enabled discovery and design of membrane-active peptides.</title>
-      <link>https://ernest-lee.github.io/publication/lee_2017id/</link>
-      <pubDate>Thu, 13 Jul 2017 00:00:00 +0000</pubDate>
-      
-      <guid>https://ernest-lee.github.io/publication/lee_2017id/</guid>
-      <description></description>
-    </item>
-    
-    <item>
       <title>A Role for Neuronal Alpha-Synuclein in Gastrointestinal Immunity.</title>
       <link>https://ernest-lee.github.io/publication/stolzenberg_2017co/</link>
       <pubDate>Tue, 27 Jun 2017 00:00:00 +0000</pubDate>
@@ -134,15 +143,6 @@
       <pubDate>Sun, 16 Apr 2017 00:00:00 +0000</pubDate>
       
       <guid>https://ernest-lee.github.io/publication/kaplan_2017gc/</guid>
-      <description></description>
-    </item>
-    
-    <item>
-      <title>Crystallinity of dsRNA-Antimicrobial Peptide Complexes Modulates TLR3-Mediated Inflammation</title>
-      <link>https://ernest-lee.github.io/talk/apsmarch2018_2/</link>
-      <pubDate>Sun, 01 Jan 2017 00:00:00 -0800</pubDate>
-      
-      <guid>https://ernest-lee.github.io/talk/apsmarch2018_2/</guid>
       <description></description>
     </item>
     
