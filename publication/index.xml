@@ -11,6 +11,15 @@
     <atom:link href="/publication/" rel="self" type="application/rss+xml" />
     
     <item>
+      <title>What can pleiotropic proteins in innate immunity teach us about bioconjugation and molecular design?</title>
+      <link>https://ernest-lee.github.io/publication/lee_2018dv/</link>
+      <pubDate>Thu, 17 May 2018 00:00:00 +0000</pubDate>
+      
+      <guid>https://ernest-lee.github.io/publication/lee_2018dv/</guid>
+      <description></description>
+    </item>
+    
+    <item>
       <title>Machine learning-enabled discovery and design of membrane-active peptides.</title>
       <link>https://ernest-lee.github.io/publication/lee_2017id/</link>
       <pubDate>Wed, 16 May 2018 00:00:00 +0000</pubDate>
@@ -133,15 +142,6 @@
       <pubDate>Sun, 16 Apr 2017 00:00:00 +0000</pubDate>
       
       <guid>https://ernest-lee.github.io/publication/kaplan_2017gc/</guid>
-      <description></description>
-    </item>
-    
-    <item>
-      <title>Mapping membrane activity in undiscovered peptide sequence space using machine learning.</title>
-      <link>https://ernest-lee.github.io/publication/lee_2016km/</link>
-      <pubDate>Tue, 15 Nov 2016 00:00:00 +0000</pubDate>
-      
-      <guid>https://ernest-lee.github.io/publication/lee_2016km/</guid>
       <description></description>
     </item>
     
