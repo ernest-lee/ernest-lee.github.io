@@ -11,6 +11,15 @@
     <atom:link href="/publication/" rel="self" type="application/rss+xml" />
     
     <item>
+      <title>Circulating biomarkers predictive of tumor response to cancer immunotherapy</title>
+      <link>https://ernest-lee.github.io/publication/lee_2019ermd/</link>
+      <pubDate>Wed, 21 Aug 2019 00:00:00 +0000</pubDate>
+      
+      <guid>https://ernest-lee.github.io/publication/lee_2019ermd/</guid>
+      <description></description>
+    </item>
+    
+    <item>
       <title>Improved prediction of HIT in the SICU using an improved model of the Warkentin 4-T system: 3-T</title>
       <link>https://ernest-lee.github.io/publication/bloom_2019ajs/</link>
       <pubDate>Mon, 29 Jul 2019 00:00:00 +0000</pubDate>
@@ -133,15 +142,6 @@
       <pubDate>Wed, 11 Apr 2018 00:00:00 +0000</pubDate>
       
       <guid>https://ernest-lee.github.io/publication/lee_2018th/</guid>
-      <description></description>
-    </item>
-    
-    <item>
-      <title>Multigenerational Memory and Adaptive Adhesion in Early Bacterial Biofilm Communities</title>
-      <link>https://ernest-lee.github.io/publication/lee_2018dr/</link>
-      <pubDate>Mon, 19 Mar 2018 00:00:00 +0000</pubDate>
-      
-      <guid>https://ernest-lee.github.io/publication/lee_2018dr/</guid>
       <description></description>
     </item>
     
