@@ -7,8 +7,17 @@
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
     <copyright>&amp;copy; 2018 Ernest Y. Lee</copyright>
-    <lastBuildDate>Sun, 15 Oct 2017 00:00:00 -0400</lastBuildDate>
+    <lastBuildDate>Sun, 15 Oct 2017 00:00:00 -0700</lastBuildDate>
     <atom:link href="/" rel="self" type="application/rss+xml" />
+    
+    <item>
+      <title>The neuropeptide PACAP is antimicrobial and potently induced in the brain during infection</title>
+      <link>https://ernest-lee.github.io/publication/lee_2019submitted/</link>
+      <pubDate>Thu, 22 Aug 2019 00:00:00 +0000</pubDate>
+      
+      <guid>https://ernest-lee.github.io/publication/lee_2019submitted/</guid>
+      <description></description>
+    </item>
     
     <item>
       <title>Circulating biomarkers predictive of tumor response to cancer immunotherapy</title>
@@ -67,7 +76,7 @@
     <item>
       <title>Host defense peptides amplify TLR9-mediated inflammation in autoimmune diseases by scaffolding dsDNA into spatially-periodic nanocrystals</title>
       <link>https://ernest-lee.github.io/talk/keystone2019/</link>
-      <pubDate>Mon, 18 Feb 2019 05:00:00 -0500</pubDate>
+      <pubDate>Mon, 18 Feb 2019 05:00:00 -0800</pubDate>
       
       <guid>https://ernest-lee.github.io/talk/keystone2019/</guid>
       <description></description>
@@ -76,7 +85,7 @@
     <item>
       <title>LL37 antimicrobial peptides amplify inflammation in psoriasis by assembling into protofibril scaffolds that present ordered nucleic acids to TLR9 and TLR3</title>
       <link>https://ernest-lee.github.io/talk/npf2019/</link>
-      <pubDate>Mon, 18 Feb 2019 05:00:00 -0500</pubDate>
+      <pubDate>Mon, 18 Feb 2019 05:00:00 -0800</pubDate>
       
       <guid>https://ernest-lee.github.io/talk/npf2019/</guid>
       <description></description>
@@ -85,7 +94,7 @@
     <item>
       <title>NETs generate structured antimicrobial peptide-nucleosome immune complexes with inter-DNA spacings optimal for TLR9 activation</title>
       <link>https://ernest-lee.github.io/talk/sid2019/</link>
-      <pubDate>Mon, 18 Feb 2019 05:00:00 -0500</pubDate>
+      <pubDate>Mon, 18 Feb 2019 05:00:00 -0800</pubDate>
       
       <guid>https://ernest-lee.github.io/talk/sid2019/</guid>
       <description></description>
@@ -111,10 +120,10 @@
     
     <item>
       <title>Off-label studies on apremilast in dermatology: a review</title>
-      <link>https://ernest-lee.github.io/publication/maloney_2019jd/</link>
+      <link>https://ernest-lee.github.io/publication/maloney_2019jdt/</link>
       <pubDate>Mon, 04 Feb 2019 00:00:00 +0000</pubDate>
       
-      <guid>https://ernest-lee.github.io/publication/maloney_2019jd/</guid>
+      <guid>https://ernest-lee.github.io/publication/maloney_2019jdt/</guid>
       <description></description>
     </item>
     
@@ -133,15 +142,6 @@
       <pubDate>Fri, 16 Nov 2018 00:00:00 +0000</pubDate>
       
       <guid>https://ernest-lee.github.io/publication/lee_2018el/</guid>
-      <description></description>
-    </item>
-    
-    <item>
-      <title>What can pleiotropic proteins in innate immunity teach us about bioconjugation and molecular design?</title>
-      <link>https://ernest-lee.github.io/publication/lee_2018dv/</link>
-      <pubDate>Thu, 17 May 2018 00:00:00 +0000</pubDate>
-      
-      <guid>https://ernest-lee.github.io/publication/lee_2018dv/</guid>
       <description></description>
     </item>
     
