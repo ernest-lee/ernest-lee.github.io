@@ -11,6 +11,15 @@
     <atom:link href="/" rel="self" type="application/rss+xml" />
     
     <item>
+      <title>Machine learning for personalized dermatology: Advances, opportunities, and outlook</title>
+      <link>https://ernest-lee.github.io/publication/lee_2019submitted2/</link>
+      <pubDate>Wed, 11 Sep 2019 00:00:00 +0000</pubDate>
+      
+      <guid>https://ernest-lee.github.io/publication/lee_2019submitted2/</guid>
+      <description></description>
+    </item>
+    
+    <item>
       <title>The neuropeptide PACAP is antimicrobial and potently induced in the brain during infection</title>
       <link>https://ernest-lee.github.io/publication/lee_2019submitted/</link>
       <pubDate>Thu, 22 Aug 2019 00:00:00 +0000</pubDate>
@@ -133,15 +142,6 @@
       <pubDate>Tue, 01 Jan 2019 00:00:00 +0000</pubDate>
       
       <guid>https://ernest-lee.github.io/publication/lee_2018gc/</guid>
-      <description></description>
-    </item>
-    
-    <item>
-      <title>Machine Learning Antimicrobial Peptide Sequences: Some Surprising Variations on the Theme of Amphiphilic Assembly</title>
-      <link>https://ernest-lee.github.io/publication/lee_2018el/</link>
-      <pubDate>Fri, 16 Nov 2018 00:00:00 +0000</pubDate>
-      
-      <guid>https://ernest-lee.github.io/publication/lee_2018el/</guid>
       <description></description>
     </item>
     
