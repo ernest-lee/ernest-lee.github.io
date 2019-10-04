@@ -11,6 +11,15 @@
     <atom:link href="/" rel="self" type="application/rss+xml" />
     
     <item>
+      <title>CXCL4-DNA immune complexes drive inflammation in systemic sclerosis by amplifying TLR9-mediated interferon-a production</title>
+      <link>https://ernest-lee.github.io/talk/rds2019/</link>
+      <pubDate>Fri, 04 Oct 2019 05:00:00 -0700</pubDate>
+      
+      <guid>https://ernest-lee.github.io/talk/rds2019/</guid>
+      <description></description>
+    </item>
+    
+    <item>
       <title>Machine learning for personalized dermatology: Advances, opportunities, and outlook</title>
       <link>https://ernest-lee.github.io/publication/lee_2019submitted2/</link>
       <pubDate>Wed, 11 Sep 2019 00:00:00 +0000</pubDate>
@@ -133,15 +142,6 @@
       <pubDate>Thu, 14 Feb 2019 00:00:00 +0000</pubDate>
       
       <guid>https://ernest-lee.github.io/publication/yount_2019pn/</guid>
-      <description></description>
-    </item>
-    
-    <item>
-      <title>Off-label studies on apremilast in dermatology: a review</title>
-      <link>https://ernest-lee.github.io/publication/maloney_2019jdt/</link>
-      <pubDate>Mon, 04 Feb 2019 00:00:00 +0000</pubDate>
-      
-      <guid>https://ernest-lee.github.io/publication/maloney_2019jdt/</guid>
       <description></description>
     </item>
     
