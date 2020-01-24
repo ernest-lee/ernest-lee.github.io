@@ -11,6 +11,24 @@
     <atom:link href="/publication/" rel="self" type="application/rss+xml" />
     
     <item>
+      <title>Switchable membrane remodeling and antifungal defense by metamorphic chemokine XCL1</title>
+      <link>https://ernest-lee.github.io/publication/dishman_2020submitted/</link>
+      <pubDate>Thu, 23 Jan 2020 00:00:00 +0000</pubDate>
+      
+      <guid>https://ernest-lee.github.io/publication/dishman_2020submitted/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Ocular lichen planus treated with lifitegrast</title>
+      <link>https://ernest-lee.github.io/publication/lee_2019submitted3/</link>
+      <pubDate>Sun, 01 Dec 2019 00:00:00 +0000</pubDate>
+      
+      <guid>https://ernest-lee.github.io/publication/lee_2019submitted3/</guid>
+      <description></description>
+    </item>
+    
+    <item>
       <title>Machine learning for personalized dermatology: Advances, opportunities, and outlook</title>
       <link>https://ernest-lee.github.io/publication/lee_2019submitted2/</link>
       <pubDate>Wed, 11 Sep 2019 00:00:00 +0000</pubDate>
@@ -48,10 +66,10 @@
     
     <item>
       <title>Improved prediction of HIT in the SICU using an improved model of the Warkentin 4-T system: 3-T</title>
-      <link>https://ernest-lee.github.io/publication/bloom_2019ajs/</link>
+      <link>https://ernest-lee.github.io/publication/bloom_2020ajs/</link>
       <pubDate>Mon, 29 Jul 2019 00:00:00 +0000</pubDate>
       
-      <guid>https://ernest-lee.github.io/publication/bloom_2019ajs/</guid>
+      <guid>https://ernest-lee.github.io/publication/bloom_2020ajs/</guid>
       <description></description>
     </item>
     
@@ -111,10 +129,10 @@
     
     <item>
       <title>Off-label studies on apremilast in dermatology: a review</title>
-      <link>https://ernest-lee.github.io/publication/maloney_2019jdt/</link>
+      <link>https://ernest-lee.github.io/publication/maloney_2020jdt/</link>
       <pubDate>Mon, 04 Feb 2019 00:00:00 +0000</pubDate>
       
-      <guid>https://ernest-lee.github.io/publication/maloney_2019jdt/</guid>
+      <guid>https://ernest-lee.github.io/publication/maloney_2020jdt/</guid>
       <description></description>
     </item>
     
@@ -124,24 +142,6 @@
       <pubDate>Tue, 01 Jan 2019 00:00:00 +0000</pubDate>
       
       <guid>https://ernest-lee.github.io/publication/lee_2018gc/</guid>
-      <description></description>
-    </item>
-    
-    <item>
-      <title>Machine Learning Antimicrobial Peptide Sequences: Some Surprising Variations on the Theme of Amphiphilic Assembly</title>
-      <link>https://ernest-lee.github.io/publication/lee_2018el/</link>
-      <pubDate>Fri, 16 Nov 2018 00:00:00 +0000</pubDate>
-      
-      <guid>https://ernest-lee.github.io/publication/lee_2018el/</guid>
-      <description></description>
-    </item>
-    
-    <item>
-      <title>What can pleiotropic proteins in innate immunity teach us about bioconjugation and molecular design?</title>
-      <link>https://ernest-lee.github.io/publication/lee_2018dv/</link>
-      <pubDate>Thu, 17 May 2018 00:00:00 +0000</pubDate>
-      
-      <guid>https://ernest-lee.github.io/publication/lee_2018dv/</guid>
       <description></description>
     </item>
     

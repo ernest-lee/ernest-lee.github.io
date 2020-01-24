@@ -11,6 +11,24 @@
     <atom:link href="/" rel="self" type="application/rss+xml" />
     
     <item>
+      <title>Switchable membrane remodeling and antifungal defense by metamorphic chemokine XCL1</title>
+      <link>https://ernest-lee.github.io/publication/dishman_2020submitted/</link>
+      <pubDate>Thu, 23 Jan 2020 00:00:00 +0000</pubDate>
+      
+      <guid>https://ernest-lee.github.io/publication/dishman_2020submitted/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Ocular lichen planus treated with lifitegrast</title>
+      <link>https://ernest-lee.github.io/publication/lee_2019submitted3/</link>
+      <pubDate>Sun, 01 Dec 2019 00:00:00 +0000</pubDate>
+      
+      <guid>https://ernest-lee.github.io/publication/lee_2019submitted3/</guid>
+      <description></description>
+    </item>
+    
+    <item>
       <title>CXCL4-DNA immune complexes drive inflammation in systemic sclerosis by amplifying TLR9-mediated interferon-a production</title>
       <link>https://ernest-lee.github.io/talk/rds2019/</link>
       <pubDate>Fri, 04 Oct 2019 05:00:00 -0700</pubDate>
@@ -57,10 +75,10 @@
     
     <item>
       <title>Improved prediction of HIT in the SICU using an improved model of the Warkentin 4-T system: 3-T</title>
-      <link>https://ernest-lee.github.io/publication/bloom_2019ajs/</link>
+      <link>https://ernest-lee.github.io/publication/bloom_2020ajs/</link>
       <pubDate>Mon, 29 Jul 2019 00:00:00 +0000</pubDate>
       
-      <guid>https://ernest-lee.github.io/publication/bloom_2019ajs/</guid>
+      <guid>https://ernest-lee.github.io/publication/bloom_2020ajs/</guid>
       <description></description>
     </item>
     
@@ -124,24 +142,6 @@
       <pubDate>Mon, 18 Feb 2019 05:00:00 -0800</pubDate>
       
       <guid>https://ernest-lee.github.io/talk/sid2019/</guid>
-      <description></description>
-    </item>
-    
-    <item>
-      <title>Helical antimicrobial peptides assemble into protofibril scaffolds that present ordered dsDNA to TLR9</title>
-      <link>https://ernest-lee.github.io/publication/lee_2019nc/</link>
-      <pubDate>Mon, 18 Feb 2019 00:00:00 +0000</pubDate>
-      
-      <guid>https://ernest-lee.github.io/publication/lee_2019nc/</guid>
-      <description></description>
-    </item>
-    
-    <item>
-      <title>A Unifying Structural Signature of Eukaryotic ⍺-helical Host Defense Peptides</title>
-      <link>https://ernest-lee.github.io/publication/yount_2019pn/</link>
-      <pubDate>Thu, 14 Feb 2019 00:00:00 +0000</pubDate>
-      
-      <guid>https://ernest-lee.github.io/publication/yount_2019pn/</guid>
       <description></description>
     </item>
     
