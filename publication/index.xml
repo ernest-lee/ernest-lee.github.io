@@ -1,55 +1,100 @@
 <?xml version="1.0" encoding="utf-8" standalone="yes" ?>
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
-    <title>Publications on Ernest Y. Lee</title>
+    <title>Publications on Ernest Y. Lee, MD, PhD</title>
     <link>https://ernest-lee.github.io/publication/</link>
-    <description>Recent content in Publications on Ernest Y. Lee</description>
+    <description>Recent content in Publications on Ernest Y. Lee, MD, PhD</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
-    <copyright>&amp;copy; 2018 Ernest Y. Lee</copyright>
+    <copyright>&amp;copy; 2020 Ernest Y. Lee, MD, PhD</copyright>
     <lastBuildDate>Sun, 01 Jan 2017 00:00:00 +0000</lastBuildDate>
     <atom:link href="/publication/" rel="self" type="application/rss+xml" />
     
     <item>
-      <title>Switchable membrane remodeling and antifungal defense by metamorphic chemokine XCL1</title>
-      <link>https://ernest-lee.github.io/publication/dishman_2020submitted/</link>
-      <pubDate>Fri, 28 Feb 2020 00:00:00 +0000</pubDate>
+      <title>Functional reciprocity of amyloids and antimicrobial peptides: Rethinking the role of supramolecular assembly in host defense, immune activation, and inflammation</title>
+      <link>https://ernest-lee.github.io/publication/lee_2020submitted4/</link>
+      <pubDate>Mon, 08 Jun 2020 00:00:00 +0000</pubDate>
       
-      <guid>https://ernest-lee.github.io/publication/dishman_2020submitted/</guid>
+      <guid>https://ernest-lee.github.io/publication/lee_2020submitted4/</guid>
       <description></description>
     </item>
     
     <item>
-      <title>Ocular lichen planus treated with lifitegrast</title>
-      <link>https://ernest-lee.github.io/publication/lee_2020submitted3/</link>
-      <pubDate>Thu, 20 Feb 2020 00:00:00 +0000</pubDate>
+      <title>Discovery of Novel Type II Bacteriocins Using a New High-Dimensional Bioinformatic Algorithm</title>
+      <link>https://ernest-lee.github.io/publication/yount_2020submitted/</link>
+      <pubDate>Sun, 07 Jun 2020 00:00:00 +0000</pubDate>
       
-      <guid>https://ernest-lee.github.io/publication/lee_2020submitted3/</guid>
+      <guid>https://ernest-lee.github.io/publication/yount_2020submitted/</guid>
       <description></description>
     </item>
     
     <item>
       <title>Machine learning for personalized dermatology: Advances, opportunities, and outlook</title>
       <link>https://ernest-lee.github.io/publication/lee_2020submitted2/</link>
-      <pubDate>Wed, 19 Feb 2020 00:00:00 +0000</pubDate>
+      <pubDate>Mon, 01 Jun 2020 00:00:00 +0000</pubDate>
       
       <guid>https://ernest-lee.github.io/publication/lee_2020submitted2/</guid>
       <description></description>
     </item>
     
     <item>
-      <title>Electric Scooters: Impact on a Community</title>
-      <link>https://ernest-lee.github.io/publication/bloom_2019submitted/</link>
-      <pubDate>Mon, 26 Aug 2019 00:00:00 +0000</pubDate>
+      <title>Telehealth solutions for in-hospital communication with patients under isolation during the COVID-19 pandemic</title>
+      <link>https://ernest-lee.github.io/publication/fang_2020wjem/</link>
+      <pubDate>Mon, 01 Jun 2020 00:00:00 +0000</pubDate>
       
-      <guid>https://ernest-lee.github.io/publication/bloom_2019submitted/</guid>
+      <guid>https://ernest-lee.github.io/publication/fang_2020wjem/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Ocular lichen planus treated with lifitegrast</title>
+      <link>https://ernest-lee.github.io/publication/lee_2020submitted3/</link>
+      <pubDate>Fri, 10 Apr 2020 00:00:00 +0000</pubDate>
+      
+      <guid>https://ernest-lee.github.io/publication/lee_2020submitted3/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Switchable membrane remodeling and antifungal defense by metamorphic chemokine XCL1</title>
+      <link>https://ernest-lee.github.io/publication/dishman_2020acsid/</link>
+      <pubDate>Fri, 03 Apr 2020 00:00:00 +0000</pubDate>
+      
+      <guid>https://ernest-lee.github.io/publication/dishman_2020acsid/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Electric Scooters: Impact on a Community</title>
+      <link>https://ernest-lee.github.io/publication/bloom_2020submitted/</link>
+      <pubDate>Wed, 01 Apr 2020 00:00:00 +0000</pubDate>
+      
+      <guid>https://ernest-lee.github.io/publication/bloom_2020submitted/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Off-label studies on apremilast in dermatology: a review</title>
+      <link>https://ernest-lee.github.io/publication/maloney_2020jdt/</link>
+      <pubDate>Sun, 01 Mar 2020 00:00:00 +0000</pubDate>
+      
+      <guid>https://ernest-lee.github.io/publication/maloney_2020jdt/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Improved prediction of HIT in the SICU using an improved model of the Warkentin 4-T system: 3-T</title>
+      <link>https://ernest-lee.github.io/publication/bloom_2020ajs/</link>
+      <pubDate>Wed, 01 Jan 2020 00:00:00 +0000</pubDate>
+      
+      <guid>https://ernest-lee.github.io/publication/bloom_2020ajs/</guid>
       <description></description>
     </item>
     
     <item>
       <title>The neuropeptide PACAP is antimicrobial and potently induced in the brain during infection</title>
       <link>https://ernest-lee.github.io/publication/lee_2020submitted/</link>
-      <pubDate>Thu, 22 Aug 2019 00:00:00 +0000</pubDate>
+      <pubDate>Wed, 01 Jan 2020 00:00:00 +0000</pubDate>
       
       <guid>https://ernest-lee.github.io/publication/lee_2020submitted/</guid>
       <description></description>
@@ -61,15 +106,6 @@
       <pubDate>Wed, 21 Aug 2019 00:00:00 +0000</pubDate>
       
       <guid>https://ernest-lee.github.io/publication/lee_2019ermd/</guid>
-      <description></description>
-    </item>
-    
-    <item>
-      <title>Improved prediction of HIT in the SICU using an improved model of the Warkentin 4-T system: 3-T</title>
-      <link>https://ernest-lee.github.io/publication/bloom_2020ajs/</link>
-      <pubDate>Mon, 29 Jul 2019 00:00:00 +0000</pubDate>
-      
-      <guid>https://ernest-lee.github.io/publication/bloom_2020ajs/</guid>
       <description></description>
     </item>
     
@@ -106,42 +142,6 @@
       <pubDate>Sat, 23 Mar 2019 00:00:00 +0000</pubDate>
       
       <guid>https://ernest-lee.github.io/publication/lande_2019nc/</guid>
-      <description></description>
-    </item>
-    
-    <item>
-      <title>Helical antimicrobial peptides assemble into protofibril scaffolds that present ordered dsDNA to TLR9</title>
-      <link>https://ernest-lee.github.io/publication/lee_2019nc/</link>
-      <pubDate>Mon, 18 Feb 2019 00:00:00 +0000</pubDate>
-      
-      <guid>https://ernest-lee.github.io/publication/lee_2019nc/</guid>
-      <description></description>
-    </item>
-    
-    <item>
-      <title>A Unifying Structural Signature of Eukaryotic ⍺-helical Host Defense Peptides</title>
-      <link>https://ernest-lee.github.io/publication/yount_2019pn/</link>
-      <pubDate>Thu, 14 Feb 2019 00:00:00 +0000</pubDate>
-      
-      <guid>https://ernest-lee.github.io/publication/yount_2019pn/</guid>
-      <description></description>
-    </item>
-    
-    <item>
-      <title>Off-label studies on apremilast in dermatology: a review</title>
-      <link>https://ernest-lee.github.io/publication/maloney_2020jdt/</link>
-      <pubDate>Mon, 04 Feb 2019 00:00:00 +0000</pubDate>
-      
-      <guid>https://ernest-lee.github.io/publication/maloney_2020jdt/</guid>
-      <description></description>
-    </item>
-    
-    <item>
-      <title>Modulation of toll-like receptor signaling by antimicrobial peptides</title>
-      <link>https://ernest-lee.github.io/publication/lee_2018gc/</link>
-      <pubDate>Tue, 01 Jan 2019 00:00:00 +0000</pubDate>
-      
-      <guid>https://ernest-lee.github.io/publication/lee_2018gc/</guid>
       <description></description>
     </item>
     
